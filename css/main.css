@@ -1,0 +1,59 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  margin: 0;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+}
+
+header {
+  background-color: #ffe500;
+  margin: 0;
+  display: ;
+
+}
+h1 {
+  font-family: 'Sigmar One', sans-serif;
+  text-transform: capitalize;
+  color:#b20953;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Sigmar One', sans-serif;
+  text-transform: capitalize;
+  color:#b20953;
+  text-align: left;
+}
+
+p {
+  font-family: 'Georgia', serif;
+  text-align: left;
+  margin: 0.3em;
+}
+
+ul li {
+  font-family: 'Georgia', serif;
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+footer {
+  text-align: center;
+  font-family: 'Georgia', serif;
+}
