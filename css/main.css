@@ -1,8 +1,8 @@
 html {
   box-sizing: border-box;
+  font: normal 100%;
   line-height: 1.5;
   margin: 0;
-  font: normal 100%;
 }
 
 *, *::before, *::after {
@@ -66,15 +66,14 @@ nav li {
 nav a {
   text-decoration: none;
   display: inline-block;
-  text-align:center;
+  text-align: center;
   color: white;
-  padding: 0.1em;
   background-color: #b2a212;
-  padding: .2em .2em;
+  padding: .2em;
   border-radius: 3px;
 }
 
-nav a:hover{
+nav a:hover {
   background-color: #cc1465;
 }
 
