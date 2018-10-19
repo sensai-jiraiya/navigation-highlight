@@ -34,11 +34,12 @@ figcaption {
 header {
   background-color: #ffe500;
   margin: 0;
-  padding: 0;
+  padding: .1rem 0 .4rem;
+  text-align: center;
 }
 
 main {
-  padding-left: 1em;
+  padding-left: .75em;
   padding-top: .6rem;
   padding-bottom: 1em;
 }
@@ -73,31 +74,28 @@ p {
 }
 
 nav ul {
-  display: inline-block;
+  display: block;
   margin: 0;
   padding: .1rem;
   list-style-type: none;
   text-decoration: none;
-  font-size: 1.125rem;
+  font-size: 1.2rem;
   font-family: Georgia, serif;
-  text-align: center;
   padding-bottom: .22rem;
-  padding-left: .3rem;
 }
 
 nav li {
   display: inline-block;
+  text-align: center;
 }
 
 nav a {
-  text-decoration: none;
-  display: inline-block;
-  text-align: center;
+  display: inline;
   color: white;
+  text-decoration: none;
   background-color: #b2a212;
-  padding: .3em .2em .2em;
+  padding: .35em;
   border-radius: 4px;
-  margin: 0;
 }
 
 nav a:hover {
