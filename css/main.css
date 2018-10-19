@@ -18,6 +18,7 @@ img {
   display: block;
   width: 100%;
   margin: 0;
+  padding: 1.5rem .5rem;
 }
 
 figure {
@@ -44,7 +45,7 @@ h1 {
   font-size: 3rem;
   margin: 0;
   padding: 0;
-  padding-top: 0.2rem;
+  padding-top: .2rem;
 }
 
 h2 {
@@ -55,6 +56,7 @@ h2 {
   font-size: 1.875rem;
   margin: 0;
   padding: 0;
+  padding-top: 1rem;
 }
 
 p {
@@ -62,7 +64,7 @@ p {
   text-align: left;
   margin: .3em;
   font-size: 1rem;
-  padding-top: .5rem;
+  padding-top: 1rem;
 }
 
 nav ul {
@@ -87,7 +89,7 @@ nav a {
   color: white;
   background-color: #b2a212;
   padding: .2em;
-  border-radius: 3px;
+  border-radius: 4px;
 }
 
 nav a:hover {
@@ -100,7 +102,7 @@ footer {
   color: #2f2d13;
   background-color: #ffe500;
   margin: 0;
-  padding: 1em;
+  padding: .75em;
 }
 
 .current {
