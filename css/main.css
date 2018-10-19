@@ -30,8 +30,8 @@ figcaption {
   margin: 0;
   padding: 0;
 }
-header {
 
+header {
   background-color: #ffe500;
   margin: 0;
   padding: 0;
@@ -40,7 +40,7 @@ header {
 main {
   padding-left: 1em;
   padding-top: .6rem;
-  padding-bottom: .75em;
+  padding-bottom: 1em;
 }
 
 h1 {
@@ -58,7 +58,7 @@ h2 {
   text-transform: capitalize;
   color: #b20953;
   text-align: left;
-  font-size: 1.875rem;
+  font-size: 1.8rem;
   margin: 0;
   padding: 0;
   padding-top: 1rem;
@@ -81,7 +81,8 @@ nav ul {
   font-size: 1.125rem;
   font-family: Georgia, serif;
   text-align: center;
-  padding-bottom: .3rem;
+  padding-bottom: .22rem;
+  padding-left: .2rem;
 }
 
 nav li {
